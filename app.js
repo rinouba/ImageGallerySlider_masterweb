@@ -1,9 +1,9 @@
 const arrayImages = [
-  `imgs/1.png`,
-  `imgs/2.png`,
-  `imgs/3.png`,
-  `imgs/4.png`,
-  `imgs/5.png`,
+  "https://cdn.discordapp.com/attachments/1197144829679910943/1300206500605722746/1.png?ex=671fff2a&is=671eadaa&hm=f7b04737858fb1c576a972dc5300b7bd9b9578482f90813da794b9fce5dc8578&",
+  "https://cdn.discordapp.com/attachments/1197144829679910943/1300206500995661834/2.png?ex=671fff2a&is=671eadaa&hm=25a16ed4df9917135220c7f3f78a0a24d0bcdd239975668295acd8c2845db3c9&",
+  "https://cdn.discordapp.com/attachments/1197144829679910943/1300206501369217024/3.png?ex=671fff2a&is=671eadaa&hm=d5e8c8134bb9e1657f72db24e7616815bb67f6b39c3ac792161e356f941a58f6&",
+  "https://cdn.discordapp.com/attachments/1197144829679910943/1300206501818011769/4.png?ex=671fff2a&is=671eadaa&hm=98d9aaa67d7bfc08a2f973621e3db8bba83ee017f1d09a94a390dc7977ba8c82&",
+  "https://cdn.discordapp.com/attachments/1197144829679910943/1300206502119735357/5.png?ex=671fff2a&is=671eadaa&hm=ed48fde27dcf72b853fc0d1725cc69b85f270f5260d0b8d9d67a736beb5f3a60&"
 ];
 
 const sliderContainer = document.getElementById("slider-container");
