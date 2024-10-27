@@ -3,7 +3,7 @@
 A responsive image gallery slider built with HTML, CSS, and JavaScript, featuring smooth transitions, swipe functionality, and customizable image layouts.
 
 ## Live Demo
-[View Demo](#)
+[View Demo](https://rinouba.github.io/ImageGallerySlider_masterweb/)
 
 ## Features
 - **Image Transition**: Smooth transition effects for navigating between images.
